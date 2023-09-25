@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\User\Desktop\C#Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\merve\OneDrive\Masaüstü\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
